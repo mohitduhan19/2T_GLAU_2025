@@ -1,4 +1,4 @@
-package T.Lec1;
+package T.Lec1_Theory;
 
 public class Reverse_String {
     public void reverseString(char[] s) {

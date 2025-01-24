@@ -1,4 +1,4 @@
-package T.Lec1;
+package T.Lec1_Theory;
 
 public class Valid_Palindrome {
     public boolean isPalindrome(String s) {

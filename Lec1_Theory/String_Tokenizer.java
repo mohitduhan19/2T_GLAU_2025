@@ -1,4 +1,4 @@
-package T.Lec1;
+package T.Lec1_Theory;
 
 import java.util.StringTokenizer;
 public class String_Tokenizer {
